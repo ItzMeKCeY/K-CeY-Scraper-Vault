@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Working Cute Anime GIF Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="100%" style="border-radius: 12px;" />
+<!-- Reliable Cyberpunk / Anime Banner -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-girl.gif" width="100%" style="border-radius: 12px;" />
 
 # 🤍 KCeY // DevRabbitZz 🥕
 
@@ -23,8 +23,8 @@
 Welcome to my personal code archive! All my web scrapers, automation scripts, and handy code snippets are neatly organized inside the **`vault/`** folder. Fuelled by clean code, anime, and boba 🧋✨
 
 <div align="center">
-  <!-- Working Cute Anime Girl GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd85f-fc8c-4b47-86f1-33ebff5c0c45.gif" width="350px" style="border-radius: 10px;" />
+  <!-- Reliable Working Anime GIF -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-anime.gif" width="350px" style="border-radius: 10px;" />
 </div>
 
 ---
