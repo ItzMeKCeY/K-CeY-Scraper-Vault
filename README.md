@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-ff66b2?style=for-the-badge&logo=none" alt="Status">
   <img src="https://img.shields.io/badge/AUTHOR-KCeY-00ffcc?style=for-the-badge&logo=github" alt="Author">
-  <img src="https://img.shields.io/badge/VIBE-ANIME%20%26%20CODE-9900ff?style=for-the-badge&logo=none" alt="Vibe">
 </p>
 
 </div>
@@ -17,7 +16,7 @@
 ---
 
 ### 🌸 About This Repo
-Welcome to my personal code archive! All my web scrapers, automation scripts, and handy code snippets are neatly organized inside the **`vault/`** folder. Fuelled by clean code, anime, and boba 🧋✨
+Welcome to my personal code archive! All my web scrapers, automation scripts, and handy code snippets are neatly organized inside the **`vault/`** folder. Fuelled by clean code and boba 🧋✨
 
 ---
 
