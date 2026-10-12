@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cute Anime GIF Banner (Replace URL if you want a different one) -->
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiOkM/giphy.gif" width="100%" style="border-radius: 12px; max-height: 250px; object-fit: cover;" />
+<!-- Working Cute Anime GIF Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="100%" style="border-radius: 12px;" />
 
 # 🤍 KCeY // DevRabbitZz 🥕
 
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-ff66b2?style=for-the-badge&logo=none" alt="Status">
   <img src="https://img.shields.io/badge/Maintained%20by-KCeY-00ffcc?style=for-the-badge&logo=github" alt="Author">
-  <img src="https://img.shields.io/badge/Vibe-Cyberpunk%20Anime-9900ff?style=for-the-badge&logo=none" alt="Vibe">
+  <img src="https://img.shields.io/badge/Vibe-Anime%20%26%20Code-9900ff?style=for-the-badge&logo=none" alt="Vibe">
 </p>
 
 </div>
@@ -23,7 +23,8 @@
 Welcome to my personal code archive! All my web scrapers, automation scripts, and handy code snippets are neatly organized inside the **`vault/`** folder. Fuelled by clean code, anime, and boba 🧋✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12bjQ7uaduOQCs/giphy.gif" width="300px" style="border-radius: 10px;" />
+  <!-- Working Cute Anime Girl GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd85f-fc8c-4b47-86f1-33ebff5c0c45.gif" width="350px" style="border-radius: 10px;" />
 </div>
 
 ---
